@@ -24,15 +24,25 @@ This README serves as a user manual for developers and users
 The website is built using HTML, CSS, and JavaScript, and has the following structure:
 .
 ├── assets
+
 │ ├── css
+
 │ │ ├── bootstrap.min.css
+
 │ │ └── style.css
+
 │ ├── img
+
 │ │ ├── ...
+
 │ ├── js
+
 │ │ ├── bootstrap.bundle.min.js
+
 │ │ └── main.js
+
 ├── index.html
+
 └── README.md
 
 
