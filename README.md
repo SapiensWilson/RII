@@ -125,7 +125,7 @@ To see a live demo of the website, visit: [https://www.richardson.industries]
 
 ## Project Video
 
-To watch a short video presentation of the project, click [here](https://www.youtube.com/watch?v=your_video_id).
+To watch a short video presentation of the project, click [here](https://www.youtube.com/watch?v=-TvLogg2IMM).
 
 ## Contact
 
